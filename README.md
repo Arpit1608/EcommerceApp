@@ -50,19 +50,19 @@ run backend server    python app.py
 ## 📷 Screenshots
 
 ### 🏠 Dashboard / Home Page
-![Dashboard](./src/assets/dashboard.png)
+![Dashboard](./frontend/src/assets/dashboard.png)
 
 ### 🔍 Search Bar
-![Search Bar](./src/assets/searchBar.png)
+![Search Bar](./frontend/src/assets/searchBar.png)
 
 ### 💬 Chatbot Popup
-![Chatbot](./src/assets/Chatbot.png)
+![Chatbot](./frontend/src/assets/Chatbot.png)
 
 ### 🔐 Login Page
-![Login Page](./src/assets/login.png)
+![Login Page](./frontend/src/assets/login.png)
 
 ### 📝 Register Page
-![Register Page](./src/assets/register.png)
+![Register Page](./frontend/src/assets/register.png)
 
 ### 📦 Product Detail Page
-![Product Detail](./src/assets/productDesc.png)
+![Product Detail](./frontend/src/assets/productDesc.png)
